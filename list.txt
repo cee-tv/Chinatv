@@ -6,12 +6,12 @@ https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
 #EXTINF:-1 ,GTV
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
 #EXTINF:-1 ,CLTV 36 PH
-https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
-#EXTINF:-1 ,黟县卢村远眺
+http://iptvid.my.id/avc/zdYwXLGjtNWsnDgSfgYmSlBCvPMO13kK/ztfsQn5V6MQUNR9NYB9gKdzahqiXrxXM/aniplus.m3u8
+#EXTINF:-1 ,DISCOVERY ASIA 
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 ,ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 , BLOOMBERG 
+#EXTINF:-1 ,BLOOMBERG 
 https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-5-Y6282hwqf3C7_live.m3u8
 #EXTINF:-1 ,CNN
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
@@ -27,5 +27,13 @@ https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,CARTOONITO
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
-#EXTINF:-1 , CARTOON NETWORK 
+#EXTINF:-1 ,CARTOON NETWORK 
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 ,tv
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720475023/ei/LwmMZvDhKOmPvcAPx6aB8A8/ip/162.158.179.60/id/Pknb2CdDEZA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/gcr/hk/spc/NO7bAbB5qj6bZNtK1bdLNuywMwYZ5d069eWrlBwGKaEHsbBY07Ch8ojNh9CPRhg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMTq2lJ2AfMDXVEKfW0eLUvQYhex0-wBOjMXHrzc0XQQCIAlvKznxjYmvCqp6m4UTeUi78ix8i7o2ZOVA6nFKWBEo/file/index.m3u8
+#EXTINF:-1 ,tv1 
+https://ythls.armelin.one/channel/UCstEtN0pgOmCf02EdXsGChw.m3u8
+#EXTINF:-1 ,CARTOONITO
+user.scalecdn.co:8080/live/BK012ee1/993c950e60/567735.m3u8
+#EXTINF:-1 ,CARTOON NETWORK 
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
