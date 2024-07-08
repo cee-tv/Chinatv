@@ -1,2 +1,0 @@
-中国中央电视台,#genre#
-TV 5,https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.m3u8
