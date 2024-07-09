@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="http://live.cooltv.top/epg.xml.gz"
-#EXTINF:-1 tvg-id="SET1" tvg-name="GMA" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8?
-#EXTINF:-1 tvg-id="Set2" tvg-name="seta" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="GENERAL",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8?
-#EXTINF:-1 tvg-id="set3" tvg-name="setb" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="GENERAL",TV 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8?
-#EXTINF:-1 tvg-id="set4" tvg-name="setc" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="GENERAL",CLTV 36 PH
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8?
-#EXTINF:-1 tvg-id="set5" tvg-name="setd" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="GENERAL", DISCOVERY ASIA
+#EXTINF:-1 tvg-id="" tvg-name="s" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS", CARTOON NETWORK 综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PINOY MOVIES",CINEMO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",MYX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
