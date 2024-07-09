@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="http://live.cooltv.top/epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="s" tvg-logo="https://i.postimg.cc/rpcYNLbw/splash.png" group-title="",
+#EXTINF:-1 tvg-id="" tvg-name="s" tvg-logo="" group-title="",
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="aa" tvg-name="bb" tvg-logo="" group-title="",
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="a" tvg-name="b" tvg-logo="" group-title="",
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="seta" tvg-name="setb" tvg-logo="" group-title="",
 https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
