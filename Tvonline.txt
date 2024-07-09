@@ -14,4 +14,4 @@ https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?
 #EXTINF:-1 tvg-id="a" tvg-name="b" tvg-logo="" group-title="pinoy movies", CINEMO 3
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="seta" tvg-name="setb" tvg-logo="" group-title="music",MYX 4
-https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
+
