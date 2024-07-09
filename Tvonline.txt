@@ -1,9 +1,17 @@
 #EXTM3U x-tvg-url="http://live.cooltv.top/epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/hunanweishi.png" group-title="GENERAL",TV5
-https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="KIDS", CARTOON NETWORK 综合
-https://i-tv.vercel.app/#/video?url=https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://live.cooltv.top/logo/fhzw.png" group-title="PINOY MOVIES",CINEMO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GENERAL",GMA
+https://host.enicsnet.com/hls/gmanixigncode/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GENERAL",GTV
+https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GENERAL",TV 5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GENERAL",CLTV 36 PH
+https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GENERAL", DISCOVERY ASIA
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS", CARTOON NETWORK 综合
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PINOY MOVIES",CINEMO
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",MYX
 https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
