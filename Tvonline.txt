@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://live.cooltv.top/epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GENERAL ",GMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GENERAL ",GMA GENERAL
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="general",GTV
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8?
