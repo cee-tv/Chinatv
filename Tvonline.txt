@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="http://live.cooltv.top/epg.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GENERAL ",GMA GENERAL
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="GENERAL ",GMA 1
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="general",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="general",GTV 1
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="general",TV5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="general",TV5 1
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="general",CLTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="general",CLTV 1
 https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="s" tvg-logo="" group-title="general", DISCOVERY ASIA 
+#EXTINF:-1 tvg-id="" tvg-name="s" tvg-logo="" group-title="general", DISCOVERY ASIA 1
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8?
-#EXTINF:-1 tvg-id="aa" tvg-name="bb" tvg-logo="" group-title="kids", CARTOON NETWORK 
+#EXTINF:-1 tvg-id="aa" tvg-name="bb" tvg-logo="" group-title="kids", CARTOON NETWORK 2
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8?
-#EXTINF:-1 tvg-id="a" tvg-name="b" tvg-logo="" group-title="pinoy movies", CINEMO
+#EXTINF:-1 tvg-id="a" tvg-name="b" tvg-logo="" group-title="pinoy movies", CINEMO 3
 https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 tvg-id="seta" tvg-name="setb" tvg-logo="" group-title="music",MYX
+#EXTINF:-1 tvg-id="seta" tvg-name="setb" tvg-logo="" group-title="music",MYX 4
 https://myxnola-abscbn-ono.amagi.tv/index_3.m3u8
