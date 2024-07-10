@@ -2,7 +2,7 @@
 #EXTINF:-1 ,CHANNEL LIST
 https://
 #EXTINF:-1 ,TV 5
-https://bitly.cx/mcPFs
+https://notflix-s1.13l.link/stream/notflix/animax/stream.m3u8?uid=3400825985&u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 ,GMA
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
 #EXTINF:-1 ,GTV
