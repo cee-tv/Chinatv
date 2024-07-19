@@ -7,16 +7,6 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 https://host.enicsnet.com/hls/gmanixigncode/index.m3u8
 #EXTINF:-1 ,GTV
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
-#EXTINF:-1 ,CLTV 36 PH
-http://iptvid.my.id/avc/zdYwXLGjtNWsnDgSfgYmSlBCvPMO13kK/ztfsQn5V6MQUNR9NYB9gKdzahqiXrxXM/aniplus.m3u8
-#EXTINF:-1 ,DISCOVERY ASIA 
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 ,ANC
-https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
-#EXTINF:-1 ,BLOOMBERG 
-https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-5-Y6282hwqf3C7_live.m3u8
-#EXTINF:-1 ,CNN
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 #EXTINF:-1 ,CINEMAONE
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 #EXTINF:-1 ,CINEMO
@@ -31,41 +21,17 @@ https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 ,CARTOON NETWORK 
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 ,COMEDY CENTRAL US
-https://livecdn-iptv001.rumsport.com/stream/754/index.m3u8
 #EXTINF:-1 ,DISNEY CHANNEL
-https://livecdn-iptv001.rumsport.com/stream/2303/index.m3u8
-#EXTINF:-1 ,DISNEY JR UK
-https://livecdn-iptv001.rumsport.com/stream/1112/index.m3u8
-#EXTINF:-1 ,DISNEY JR US
-https://livecdn-iptv001.rumsport.com/stream/8608/index.m3u8
-#EXTINF:-1 ,NICK MUSIC
-https://livecdn-iptv001.rumsport.com/stream/12982/index.m3u8
+https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
+#EXTINF:-1 ,DISNEY XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 ,NICK JR
-https://livecdn-iptv001.rumsport.com/stream/14835/index.m3u8
-#EXTINF:-1 ,NICKELODEON UK
-https://livecdn-iptv001.rumsport.com/stream/281864/index.m3u8
-#EXTINF:-1 ,NICKELODEON US
-https://livecdn-iptv001.rumsport.com/stream/764/index.m3u8
-#EXTINF:-1 ,NICKTOONS UK
-https://livecdn-iptv001.rumsport.com/stream/740/index.m3u8
-#EXTINF:-1 ,NICKTOONS US
-https://livecdn-iptv001.rumsport.com/stream/2351/index.m3u8
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 ,NICKELODEON 
+https://nick.jeromelaliag.link/NICKELODEON/index.m3u8
 #EXTINF:-1 ,PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000.m3u8
-#EXTINF:-1 ,TEENNICK
-https://livecdn-iptv001.rumsport.com/stream/15058/index.m3u8
-#EXTINF:-1 ,UNIVERSAL KIDS
-https://livecdn-iptv001.rumsport.com/stream/6399/index.m3u8
-#EXTINF:-1 ,FX
-https://livecdn-iptv001.rumsport.com/stream/758/index.m3u8
-#EXTINF:-1 ,HBO COMEDY
-https://livecdn-iptv001.rumsport.com/stream/2335/index.m3u8
-#EXTINF:-1 ,HBO FAMILY
-https://livecdn-iptv001.rumsport.com/stream/760/index.m3u8
-#EXTINF:-1 ,HBO SIGNATURE
-https://livecdn-iptv001.rumsport.com/stream/6305/index.m3u8
-#EXTINF:-1 ,HBO ZONE
+#EXTINF:-1 ,HBO
 https://livecdn-iptv001.rumsport.com/stream/6328/index.m3u8
 #EXTINF:-1 ,HOLLYWOOD MOVIES
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -97,14 +63,14 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ,SBS EU
 https://newidco-sbs-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,CLTV 36 PH
+http://iptvid.my.id/avc/zdYwXLGjtNWsnDgSfgYmSlBCvPMO13kK/ztfsQn5V6MQUNR9NYB9gKdzahqiXrxXM/aniplus.m3u8
+#EXTINF:-1 ,DISCOVERY ASIA 
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 ,ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,BLOOMBERG 
+https://liveprodapnortheast.akamaized.net/ap1/Channel-APTVqvs-AWS-Tokyo-2/Source-APTVqvs-10000-1-swyg20-BP-HD-5-Y6282hwqf3C7_live.m3u8
 #EXTINF:-1 ,HGTV
 https://food-dlvr-ott.akamaized.net/primary/4/c20e615a33504bc7a227077cb102aef1/index_15.m3u8
-#EXTINF:-1 ,ONESPORTS+
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_2.m3u8
-#EXTINF:-1 ,NBA LIVE
-https://livecdn-iptv001.rumsport.com/stream/762/index.m3u8
-#EXTINF:-1 ,TEST
-
-#EXTINF:-1 ,DAILY ANIMATED
-
 
