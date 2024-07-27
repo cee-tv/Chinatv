@@ -13,8 +13,8 @@ https://ythls-v3.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1721764275/ei/U7WfZsmxNOXevcAPopSC4QI/ip/203.114.65.85/id/VoIPrYaw0kE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51230700/txs/51230696%2C51230697%2C51230698%2C51230699%2C51230700%2C51230701%2C51230702/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/ph/spc/NO7bAfA6l7DbgE_aomqYhFjo3HNUjHPNIRjiejcjmiMWrHvRVI1bE7xF83zbr4M/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALyPGJ55PMYcxULmyF5qBbaYULxjPZwGubNxvkeYiW93AiBmMfmHZIBhQlhQSPhhtLGk87pH4FIvGfGZpJVkbpn9wQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="TVN MOVIES" tvg-logo="https://www.pngkey.com/png/full/107-1070871_tvn-movies-film.png" group-title="GENERAL",TVN MOVIES 
 https://notflix-s1.13l.link/stream/notflix/tvnmovies/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
-#EXTINF:-1 tvg-id="CLTV 36 PH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png" group-title="GENERAL",CLTV
-https://live.cltv36.tv:5443/LiveApp/streams/live.m3u8
+#EXTINF:-1 tvg-id="BUKO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/BuKo_Buhay_Komedya_Logo.jpg" group-title="GENERAL",BUKO
+https://notflix-s1.13l.link/stream/notflix/buko/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 tvg-id="DREAMWORKS" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1297875f-06e7-495a-83e5-cc0f2cc9d5cf/dh2pzzj-7380097a-0132-45dc-8bc9-8775e387cf80.png/v1/fit/w_828,h_576/dreamworks_animation_skg_logo_tvokids_style_by_aidasanchez0212_dh2pzzj-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODkwIiwicGF0aCI6IlwvZlwvMTI5Nzg3NWYtMDZlNy00OTVhLTgzZTUtY2MwZjJjYzlkNWNmXC9kaDJwenpqLTczODAwOTdhLTAxMzItNDVkYy04YmM5LTg3NzVlMzg3Y2Y4MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.N-fsNu_pTpE2hEhiGftXPJuzW2InxmZlxkldJPUWAGk" group-title="GENERAL", DREAMWORKS 
 https://notflix-s1.13l.link/stream/notflix/dreamworkstagalized/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 tvg-id="BOOMERANG" group-title="KIDS",BOOMERANG
@@ -65,7 +65,7 @@ https://v1.thetvapp.to/hls/FXMovieChannel_low.m3u8?token=Icfu3vZ37PsxSYUJnb5pbg&
 https://v2.thetvapp.to/hls/CinemaxEast_low.m3u8?token=OQpTBkGGRiszab-2h4GQlQ&expires=1721456703
 #EXTINF:-1 tvg-id="CINEMA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1280px-Cinema_One_2013_logo.svg.png" group-title="MOVIES",CINEMAONE
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
-#EXTINF:-1 tvg-id="CINEMA ONE" tvg-logo="" group-title="MOVIES",SARISARI
+#EXTINF:-1 tvg-id="SARI SARI" tvg-logo="" group-title="MOVIES",SARISARI
 https://notflix-s1.13l.link/stream/notflix/sarisari/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 tvg-id="CINEMO" tvg-logo="https://raw.githubusercontent.com/cee-tv/Chinatv/main/CineMo!.png" group-title="MOVIES",CINEMO
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
@@ -113,8 +113,8 @@ https://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="NBA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1280px-NBA_TV.svg.png" group-title="SPORTS",NBA TV
 https://notflix-s1.13l.link/stream/notflix/nbaph/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
-#EXTINF:-1 tvg-id="ONE SPORTS+" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/0/0b/One_Sports%2B.png/revision/latest?cb=20230314053103" group-title="SPORTS",ONESPORTS+
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp_2.m3u8
+#EXTINF:-1 tvg-id="PBARUSH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cd/PBA_Rush_logo.png" group-title="SPORTS",PBARUSH
+https://notflix-s1.13l.link/stream/notflix/pbarush/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 tvg-id="DZBBDT1.ph" tvg-logo="https://i.imgur.com/5GXTkZx.png" group-title="RADIO",Super Radyo DZBB (720p) [Not 24/7]
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="DZRHNewsTV.ph" tvg-logo="https://i.imgur.com/qe1QqZh.png" group-title="RADIO",DZRH News TV (1080p) [Not 24/7]
