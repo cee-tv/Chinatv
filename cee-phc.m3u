@@ -65,6 +65,8 @@ https://v1.thetvapp.to/hls/FXMovieChannel_low.m3u8?token=Icfu3vZ37PsxSYUJnb5pbg&
 https://v2.thetvapp.to/hls/CinemaxEast_low.m3u8?token=OQpTBkGGRiszab-2h4GQlQ&expires=1721456703
 #EXTINF:-1 tvg-id="CINEMA ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/1280px-Cinema_One_2013_logo.svg.png" group-title="MOVIES",CINEMAONE
 https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
+#EXTINF:-1 tvg-id="CINEMA ONE" tvg-logo="" group-title="MOVIES",SARISARI
+https://notflix-s1.13l.link/stream/notflix/sarisari/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 tvg-id="CINEMO" tvg-logo="https://raw.githubusercontent.com/cee-tv/Chinatv/main/CineMo!.png" group-title="MOVIES",CINEMO
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SONY MOVIES" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/409efa6e-c69a-4971-ac4e-a2a76dcd02e5/dekdgd0-ed4b7a1d-7cea-472e-91f5-6dbc15f64e69.png/v1/fit/w_828,h_830/sony_movies__united_states__logo__2021_present__by_mattjacks2003_dekdgd0-414w-2x.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE1MiIsInBhdGgiOiJcL2ZcLzQwOWVmYTZlLWM2OWEtNDk3MS1hYzRlLWEyYTc2ZGNkMDJlNVwvZGVrZGdkMC1lZDRiN2ExZC03Y2VhLTQ3MmUtOTFmNS02ZGJjMTVmNjRlNjkucG5nIiwid2lkdGgiOiI8PTExNDgifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.sZJR5KxUznp5WTJOVmmZrAQuluOggCe1TxSwOu0mDbQ" group-title="MOVIES",SONY MOVIES
