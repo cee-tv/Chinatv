@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Rock Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRb9lfE6_rIGaZvkZOP61pEF8dYWDq1IrwQ&usqp=CAU" group-title="GENERAL",test
-https://notflixserver33.13l.link/atm/hlsv3/ROCK_ACTION/ROCK_ACTION-avc1_2500000=6-mp4a_96000=2.m3u8
+http://iptvid.my.id/avc/zdYwXLGjtNWsnDgSfgYmSlBCvPMO13kK/ztfsQn5V6MQUNR9NYB9gKdzahqiXrxXM/nickjr.m3u8
 #EXTINF:-1 tvg-id="A2Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="GENERAL",A2Z
 https://notflix-s1.13l.link/stream/notflix/a2z/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="GENERAL",GTV
