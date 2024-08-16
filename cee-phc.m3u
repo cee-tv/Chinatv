@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Rock Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoRb9lfE6_rIGaZvkZOP61pEF8dYWDq1IrwQ&usqp=CAU" group-title="GENERAL",test
 https://varun-eosin.vercel.app/m3u/Loloandthelid.m3u8
 #EXTINF:-1 tvg-id="A2Z" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png" group-title="GENERAL",A2Z
-https://notflix-s1.13l.link/stream/notflix/a2z/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
+http://13.250.6.138:1234/stream/iptv/a2z/master.m3u8?u=phconly&p=1a74ad1309c32d101f36c1cd57a069a5138f0c618836ca1ef9e2016d4e69faa9
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="GENERAL",GTV
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
 #EXTINF:-1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL",GMA TV
