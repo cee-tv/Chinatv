@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TV 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9amAluJ9UMaCBXj1Nh3oA68c_9QtPFy4_TJtUVjL5Qg&s" group-title="GENERAL",test
 https://varun-eosin.vercel.app/stream/iptv/hlsv1/tv5.m3u8
-#EXTINF:-1 tvg-id="PBO" tvg-logo="" group-title="GENERAL",A2Z
-https://varun-eosin.vercel.app/stream/iptv/hlsv1/pbo.m3u8
+#EXTINF:-1 tvg-id="ANIMAX" tvg-logo="" group-title="GENERAL",A2Z
+https://varun-eosin.vercel.app/stream/iptv/hlsv1/animax.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="GENERAL",GTV
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
 #EXTINF:-1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL",GMA TV
