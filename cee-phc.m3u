@@ -6,7 +6,7 @@ https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="GENERAL",GTV
 https://host.enicsnet.com/hls/gtvnixigncode/index.m3u8
 #EXTINF:-1 tvg-id="GMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL",GMA TV
-https://raw.githubusercontent.com/cee-tv/varun/main/stream/iptv/a2z.m3u8
+https://raw.githubusercontent.com/cee-tv/varun/main/stream/iptv/a2z.m3u8?token=GHSAT0AAAAAACVAKIC6TGKYCSGPXDRFXUROZXAJ7RA
 #EXTINF:-1 tvg-id="KAPAMILYA LIVE [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7d/Kapamilya_Online_Live_Logo_2020.svg" group-title="GENERAL",KAPAMILYA YT
 https://ythls-v3.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
 #EXTINF:-1 tvg-id="GMA LIVE [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1280px-GMA_Network_Logo_Vector.svg.png" group-title="GENERAL",GMA LIVE YT
