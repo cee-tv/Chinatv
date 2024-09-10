@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9amAluJ9UMaCBXj1Nh3oA68c_9QtPFy4_TJtUVjL5Qg&s" group-title="GENERAL",test
-http://103.140.3.18:14567/hbohd/touch/manifest.m3u8
+https://tfcguam-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-id="ANIMAX" tvg-logo="" group-title="GENERAL",A2Z
 https://varun-eosin.vercel.app/stream/iptv/hlsv1/animax.m3u8
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="GENERAL",GTV
