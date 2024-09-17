@@ -12,8 +12,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 45
+  function switchToDRM45() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd",
       type: "dash",
@@ -26,8 +26,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 46
+  function switchToDRM46() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd",
       type: "dash",
@@ -40,8 +40,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 47
+  function switchToDRM47() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd",
       type: "dash",
@@ -54,8 +54,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 48
+  function switchToDRM48() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd",
       type: "dash",
@@ -68,8 +68,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 49
+  function switchToDRM49() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd",
       type: "dash",
@@ -82,8 +82,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 50
+  function switchToDRM50() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd",
       type: "dash",
@@ -96,8 +96,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 51
+  function switchToDRM51() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd",
       type: "dash",
@@ -110,8 +110,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 52
+  function switchToDRM52() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd",
       type: "dash",
@@ -124,8 +124,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 53
+  function switchToDRM53() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd",
       type: "dash",
@@ -138,8 +138,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 54
+  function switchToDRM54() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd",
       type: "dash",
@@ -152,8 +152,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 55
+  function switchToDRM55() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd",
       type: "dash",
@@ -166,8 +166,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 56
+  function switchToDRM56() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd",
       type: "dash",
@@ -180,8 +180,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 57
+  function switchToDRM57() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tv5_monde.mpd",
       type: "dash",
@@ -194,8 +194,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 58
+  function switchToDRM58() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd",
       type: "dash",
@@ -208,8 +208,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 59
+  function switchToDRM59() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd",
       type: "dash",
@@ -222,8 +222,8 @@
     });
   }
 
-// Function to switch to DRM 44
-  function switchToDRM44() {
+// Function to switch to DRM 60
+  function switchToDRM60() {
     playerInstance.setup({
       file: "https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd",
       type: "dash",
