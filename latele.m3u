@@ -1,14 +1,14 @@
 {
     "24-horas": {
-        "nombre": "24 horas",
+        "nombre": "kapamilya",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
         "señales": {
             "iframe_url": [
                 "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0"
             ],
             "m3u8_url": [],
-            "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
-            "yt_embed": "",
+            "yt_id": "UCstEtN0pgOmCf02EdXsGChw",
+            "yt_embed": "<iframe width="393" height="221" src="https://www.youtube.com/embed/CYN2hRQJjCE" title="Kapamilya Online Live | September 24, 2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>",
             "yt_playlist": "",
             "twitch_id": "24horas_tvn"
         },
