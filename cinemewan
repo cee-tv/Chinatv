@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>LIVE </title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta property="og:title" content="">
+<meta property="og:url" content="//rudo.video/live/mega">
+<meta property="og:image" content="//cdn.rudo.video/assets/ratiboo/global_48d255a11f84ae2788e475a01589abb523192317.png">
+<meta property="og:type" content="video">
+<link rel="shortcut icon" type="image/x-icon" href="//rudo.video/public/dpsPlayer/8.3.0.n/skins/new.dps/img/favicon.png">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,400i,700,700i">
+<link rel="stylesheet" href="//rudo.video/public/dpsPlayer/8.3.0.n/skins/new.dps/videojs.min.css?v=20240922_v01">
+<link rel="stylesheet" href="//rudo.video/public/dpsPlayer/8.3.0.n/skins/new.dps/ima.min.css?v=20240922_v01">
+<link rel="stylesheet" href="//rudo.video/public/dpsPlayer/8.3.0.n/skins/new.dps/style.css?v=20240922_v01">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1"></script>
+<script src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script src="//rudo.video/public/dpsPlayer/8.3.0.n/video.min.js?v=20240922_v01" type="text/javascript"></script>
+<script src="//rudo.video/public/dpsPlayer/8.3.0.n/plugins/videojs.ima.js?v=20240922_v01" type="text/javascript"></script>
+<script src="//rudo.video/public/dpsPlayer/8.3.0.n/plugins/videojs-contrib-ads.min.js?v=20240922_v01" type="text/javascript"></script>
+<script src="//rudo.video/public/dpsPlayer/8.3.0.n/plugins/nuevo.min.js?v=20240922_v01" type="text/javascript"></script>
+<script src="//rudo.video/public/dpsPlayer/8.3.0.n/plugins/videojs-chromecast.min.js?v=20240922_v01"></script>
+<style type="text/css">
+<!--
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    background-color:#000;
+}
+-->
+</style>
+<script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      //ga('create', 'UA-38929304-1', 'auto');
+      //ga('send', 'pageview');
+        </script>
+    </head>
+<body>
+        <div class="rudo__wrapper rudo-wrapper rudo-wrapper--is-live rudo-wrapper--header-visible " id="afterPlayer">
+            <video id="rudo-video" class="video-js vjs-big-play-centered vjs-default-skin" poster="//cdn.rudo.video/assets/ratiboo/global_48d255a11f84ae2788e475a01589abb523192317.png" playsinline="playsinline" x-webkit-airplay="allow" webkit-playsinline="true"><source src="https://rudo.video/rudo.m3u8" type="application/x-mpegURL"></video>            <!--<div class="controls-banner is-hidden">-->
+            <div class="controls-banner">
+              <div class="controls-banner__container">
+                <!--<a href="#" target="_blank">
+                  <img src="https://via.placeholder.com/320x90/" alt="{title}" />
+                </a>
+                    <div id='div-gpt-ad-1648065987607-0' style='min-width: 320px; min-height: 50px;'>
+                        <script>
+                            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1648065987607-0'); });
+                        </script>
+                    </div>-->
+              </div>
+            </div>
+
+            <span class="tap-button">
+                <i class="vjs-icon-volume-mute tap-button__icon" aria-hidden="true"></i>
+                <span class="tap-button__label">ACTIVAR SONIDO</span>
+            </span>
+
+                          <span class="rudo__title rudo-title">
+                  <span class="rudo-title__center">
+                      <span class="rudo-title__label"></span>
+                  </span>
+                                </span>
+            
+            <div id="rudo-mark-box" class="rudo-mark-box rudo-mark-box--br" style="display: none;">
+              <div class="rudo-mark-box__wrapper">
+                <img src="https://placehold.co/100x100/" alt="{title}" class="rudo-mark-box__logo" />
+              </div>
+            </div>
+        </div><!-- /.rudo-wrapper -->
+        <script>
+            var _dpssid="";
+        </script>
+                                <script>
+            // GLOBAL VARS
+            var durationVideo = 0;
+            var Mobile=true
+            var loopPlayer=false;
+            var abouttext="RUDO LIVE P2P|OTT|VOD|CLIPPING|360|VR DIGITALPROSERVER.COM @ 2024";
+            var aboutlink="https://www.digitalproserver.com";
+            var mutedPlayer=false;
+            var autoplayPlayer=false;
+            var preloadPlayer='none';
+            var streamType='live';
+            var contentType='video';
+            var videoAuthor='Ratiboo Demo';
+            var titleVideo='LIVE ';
+            var slug='mega';
+            var vkey='mega';
+            var catName='ratiboo';
+            var $video       = $('#rudo-video');
+            var $titleHeader = $('.rudo-title');
+            var videoOnly = false;
+            var scr = 0;
+            var adsURL='https://rudo.video/ads/vmap/'+streamType+'/'+slug+'?url=';
+                        var streamURL='https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8';
+            var typeStreamURL='application/x-mpegurl';
+            var streamAutoplay=1;
+            var streamVolume=0;
+            var dvr= 0;
+            var liveUiDVR=false;
+            var posterIMG='//cdn.rudo.video/assets/ratiboo/global_48d255a11f84ae2788e475a01589abb523192317.png';
+            var haveAds=1;
+            var customBranding='1';
+            var playout='';
+            var savedata='';
+            var offlineFile='https://unlimited7-us.dps.live/vod/cl/dps/0/offline.mp4';
+            var apiAds='0';
+            var DAI=0;
+            var DAITK=0;
+            var videoElement = '<video id="rudo-video" class="video-js vjs-big-play-centered vjs-default-skin" poster="//cdn.rudo.video/assets/ratiboo/global_48d255a11f84ae2788e475a01589abb523192317.png" playsinline="playsinline" x-webkit-airplay="allow" webkit-playsinline="true"><source src="https://rudo.video/rudo.m3u8" type="application/x-mpegURL"></video>';
+            var CmC3 = 'RUDOVIDEO';
+            var urlRef = '';
+            var options = {
+                id: 'rudo-video',
+                disableVideoPlayPauseClick: true,
+                adTagUrl: adsURL,
+			vpaidMode: 'INSECURE',
+			debug: true,
+			adsRenderingSettings:{useStyledLinearAds:false},
+			preventLateAdStart: true,
+			disableCustomPlaybackForIOS10Plus: true,
+                contentIsLive: true,
+                prerollTimeout: 3000,
+                showCountdown: true
+            };
+        </script>
+                <script src="//rudo.video/public/dpsPlayer/8.3.0.n/live-jireh.js?v=20240922_v01&ch=mega" type="text/javascript"></script>
+                <script>
+            var dpsRoolz="btlx";
+                    </script>
+                        <!--1 0 1 131.226.104.142 PH https: mega 09/24/2024 06:26:05 am Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36 rudo.video ref  - 131.226.104.142 9 131.226.104.142 -> 0 type 0 odos 0 haveads 1 139831 DITO TELECOMMUNITY CORP. Dito Telecommunity Corp. Dito Telecommunity Corp.-false -->
+
+        <script>
+          window.addEventListener('click', function(event) {
+            if (!event.target.closest('video')) return;
+            // Disabled on 9-16 Mode
+            if (document.querySelector('.rudo-wrapper').classList.contains('mode-9-16')) return;
+
+            const $rudoVideo = document.querySelector('#rudo-video');
+
+            if ($rudoVideo.classList.contains('vjs-playing')) {
+              player.pause();
+            } else {
+              player.play();
+            }
+          });
+        </script>
+    </body>
+</html>
+</body>
+</html>
