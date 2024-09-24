@@ -4,7 +4,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png",
         "señales": {
             "iframe_url": [
-                "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0"
+                "https://drmlive-iota.vercel.app/?emmbed-url=https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd&kid=2615129ef2c846a9bbd43a641c7303ef:&key=07c7f996b1734ea288641a68e1cfdc4d"
             ],
             "m3u8_url": [],
             "yt_id": "UCstEtN0pgOmCf02EdXsGChw",
